@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDINet", "SDINet\SDINet.csproj", "{4FA84D0E-3434-43E0-8EFA-89D9F981A800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDINet", "MDINet\MDINet.csproj", "{61EE291B-3882-4F2D-84D1-414389FE1C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FA84D0E-3434-43E0-8EFA-89D9F981A800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA84D0E-3434-43E0-8EFA-89D9F981A800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA84D0E-3434-43E0-8EFA-89D9F981A800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA84D0E-3434-43E0-8EFA-89D9F981A800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61EE291B-3882-4F2D-84D1-414389FE1C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61EE291B-3882-4F2D-84D1-414389FE1C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61EE291B-3882-4F2D-84D1-414389FE1C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61EE291B-3882-4F2D-84D1-414389FE1C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

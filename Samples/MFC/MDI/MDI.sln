@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MDI", "MDI.vcproj", "{CE6ABC42-0BDB-49C9-900C-EFBD22D2E8E0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "USkin_DLL", "..\..\USkin_DLL\USkin_DLL.vcproj", "{76E9EB68-46E6-49D7-9041-CD4EFF870D24}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToolBar", "..\ToolBarComboDemo\ToolBar.vcproj", "{98D8C95E-855E-4E33-89C9-3C428BECF67F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		UnicodeDebug|Win32 = UnicodeDebug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE6ABC42-0BDB-49C9-900C-EFBD22D2E8E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE6ABC42-0BDB-49C9-900C-EFBD22D2E8E0}.Debug|Win32.Build.0 = Debug|Win32
+		{CE6ABC42-0BDB-49C9-900C-EFBD22D2E8E0}.Release|Win32.ActiveCfg = Release|Win32
+		{CE6ABC42-0BDB-49C9-900C-EFBD22D2E8E0}.Release|Win32.Build.0 = Release|Win32
+		{CE6ABC42-0BDB-49C9-900C-EFBD22D2E8E0}.UnicodeDebug|Win32.ActiveCfg = Debug|Win32
+		{CE6ABC42-0BDB-49C9-900C-EFBD22D2E8E0}.UnicodeDebug|Win32.Build.0 = Debug|Win32
+		{76E9EB68-46E6-49D7-9041-CD4EFF870D24}.Debug|Win32.ActiveCfg = Debug|Win32
+		{76E9EB68-46E6-49D7-9041-CD4EFF870D24}.Release|Win32.ActiveCfg = Release|Win32
+		{76E9EB68-46E6-49D7-9041-CD4EFF870D24}.UnicodeDebug|Win32.ActiveCfg = UnicodeDebug|Win32
+		{98D8C95E-855E-4E33-89C9-3C428BECF67F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98D8C95E-855E-4E33-89C9-3C428BECF67F}.Debug|Win32.Build.0 = Debug|Win32
+		{98D8C95E-855E-4E33-89C9-3C428BECF67F}.Release|Win32.ActiveCfg = Release|Win32
+		{98D8C95E-855E-4E33-89C9-3C428BECF67F}.Release|Win32.Build.0 = Release|Win32
+		{98D8C95E-855E-4E33-89C9-3C428BECF67F}.UnicodeDebug|Win32.ActiveCfg = Debug|Win32
+		{98D8C95E-855E-4E33-89C9-3C428BECF67F}.UnicodeDebug|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
